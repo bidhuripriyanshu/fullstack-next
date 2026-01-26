@@ -1,0 +1,54 @@
+file and folder structure 
+ls        # list files
+pwd       # show current path
+cd        # change directory
+mkdir     # create folder
+rm        # delete file
+rmdir     # delete empty folder
+
+--> write all linux commands with examples
+Here's a comprehensive list of Linux commands with examples:
+
+
+
+#**File & Directory Operations**
+1. **`ls`** - List files and directories
+   ```bash
+   ls          # List files in current directory
+   ls -l       # Detailed list (permissions, owner, size, etc.)
+   ls -a       # Show hidden files (starting with '.')
+   ls -lh      # Human-readable file sizes (KB, MB, GB)
+   ```
+
+2. **`cd`** - Change directory
+   ```bash
+   cd /path/to/directory   # Navigate to a specific directory
+   cd ..                  # Move up one directory
+   cd ~                   # Go to home directory
+   cd -                   # Switch to previous directory
+   ```
+
+3. **`pwd`** - Print working directory (current path)
+   ```bash
+   pwd
+   ```
+
+4. **`mkdir`** - Create a directory
+   ```bash
+   mkdir new_folder       # Create a single directory
+   mkdir -p parent/child # Create nested directories
+   ```
+
+5. **`rm`** - Remove files or directories
+   ```bash
+   rm file.txt            # Delete a file
+   rm -r folder
+
+
+      
+
+
+
+
+
+
