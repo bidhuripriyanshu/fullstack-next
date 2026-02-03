@@ -8,7 +8,9 @@ export default function Home() {
      <br></br>
      <Link href ="/blogs">Blogs</Link> <br></br>
 
-     <Link href = "/service">Services</Link>
+     <Link href = "/service">Services</Link> <br></br>
+     <Link href = "/files">file</Link>
+
      </>
      
   );
