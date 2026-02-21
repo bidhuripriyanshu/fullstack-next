@@ -1,0 +1,8 @@
+1.Css modules in next js
+2.SCSS using in next js
+3.Tailwind setup in next js and comparsion with before used version in next js and differnce b/w them.
+4.Image optimatization
+ -->image/next;
+ -->external se work nhi kartha he 
+ 
+ 
